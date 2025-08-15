@@ -1,6 +1,6 @@
-# **AI VoxAgent**
+# **AI VoiceAgent**
 
-An interactive voice-first AI application powered by **Murf AI**, **AssemblyAI**, and **Google Gemini API**, built with **FastAPI** for the backend and a lightweight HTML/CSS/JavaScript frontend. This agent enables real-time speech capture, transcription, AI-based conversation, and natural-sounding voice responses.
+An interactive voice-first AI application powered by **Murf AI**, **AssemblyAI**, and **Google Gemini API**, built with **FastAPI** for the backend and a lightweight React+TailwindCSS frontend. This agent enables real-time speech capture, transcription, AI-based conversation, and natural-sounding voice responses.
 
 ---
 
@@ -8,6 +8,7 @@ An interactive voice-first AI application powered by **Murf AI**, **AssemblyAI**
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [MyProject](#my-project)
 - [What You'll Need](#what-youll-need)
 - [Tools Used](#tools-used)
 - [Project Structure](#project-structure)
@@ -48,8 +49,8 @@ This setup is ideal for building:
 
 Here is what the app looks like:
 
-![App Screenshot](Images/screenshot1.png)
-![App Screenshot](Images/screenshot2.png)
+![App Screenshot](Images/screenshot1.PNG)
+![App Screenshot](Images/screenshot2.PNG)
 
 ## 🛠 What You'll Need
 
