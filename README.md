@@ -70,7 +70,7 @@ Here is what the app looks like:
 | **Murf AI**        | Text-to-Speech (TTS)            |
 | **FastAPI**        | Backend API server              |
 | **React+Tailwind** | UI for interaction and playback |
-| **MediaRecorder**  | Echo Bot mic capture + playback |
+| **MediaRecorder**  | Audio voice capture + playback |
 
 ---
 
@@ -175,7 +175,7 @@ uvicorn main:app --reload
 ## 🚀 Usage
 
 1. Start the FastAPI server as described above.
-2. Open `http://localhost:8000` in the browser.
+2. Open `http://localhost:3000` in the browser.
 3. Grant microphone access.
 4. Speak into your mic — your speech will be transcribed, processed by **Gemini**, and played back with **Murf AI's** voice.
 
