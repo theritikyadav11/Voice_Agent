@@ -1,0 +1,48 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Environment variables
+.env
+
+# Python virtual environments
+myenv/
+venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.spec
+
+# Mac and Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs and database
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore coverage and test output
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Local IDE
+.idea/
